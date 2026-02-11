@@ -1,0 +1,20 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Alejandro José Alfaro García
+Matrícula: A00842460
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+suena chevere, aunque es obligatorio para mi carrera
+
+¿Qué espero aprender?
+espero tener las habilidades para desarrollarme como cientifico de datos en la industria
+
+Herramientas que ya conozco:
+- R
+- MATLAB
+
+Herramientas nuevas para mí:
+- Conda
+- Jupyter (fuera de colab)
